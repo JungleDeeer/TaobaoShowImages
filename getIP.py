@@ -57,8 +57,8 @@ class proxy():
                 ipList.delete(self.key, value)
                 self.random()
             else:
-                print(value)
-                return value
+                print("http://" + value)
+                return "http://" + value
         except Exception as err:
             print(err)
             print('异常删除')
