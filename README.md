@@ -1,5 +1,5 @@
-# SexyImages
-This can download about 1G Sexy Images from Taobao customer's album.
+#TaobaoShow Images
+This can download about 1G TaobaoShow Images from Taobao customer's album.
   1.alter 'amount' and 'loopAmount' to change number of downloads
   2.use getIP (import and set 'proxy' as proxy.random) to change proxy IP
   
